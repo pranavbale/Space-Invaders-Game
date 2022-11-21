@@ -1,0 +1,41 @@
+#background {
+    background-image: url(./assets/background.png);
+    width: 1370px;
+    height: 670px;
+    /* position: relative; */
+}
+
+#hero {
+    background-image: url(./assets/hero.png);
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    left: 685px;
+    top: 580px;
+}
+
+#enemies {
+    height: auto;
+    width: 1360px;
+    border: 5px solid red;
+}
+
+#enemy {
+    background-image: url(./assets/enemy.png);
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    top: 50px;
+    left: 685px;
+}
+
+#missile {
+    background-image: url(./assets/missile1.png);
+    height: 27px;
+    width: 10px;
+    position: absolute;
+}
+
+
+/* 54 min complete 
+11 nov 2022*/
